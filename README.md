@@ -1,6 +1,6 @@
 # LLM Output Sanitizer
 
-A zero-install **bookmarklet** for cleaning LLM-generated text before pasting it into code, terminals, configs, or APIs.
+A zero-install **bookmarklet** for cleaning LLM-generated text. ~before pretending that the AI generated text is something that you created by yourself~.
 
 LLMs often produce text that looks correct but contains smart punctuation, invisible Unicode, emoji joiners, and typographic symbols that break copy/paste workflows. This tool normalizes that output into predictable ASCII in a single click.
 
