@@ -4,6 +4,8 @@ A zero-install **bookmarklet** for cleaning LLM-generated text before pasting it
 
 LLMs often produce text that looks correct but contains smart punctuation, invisible Unicode, emoji joiners, and typographic symbols that break copy/paste workflows. This tool normalizes that output into predictable ASCII in a single click.
 
+<img width="481" height="371" alt="image" src="https://github.com/user-attachments/assets/906ad1c4-cb04-40bd-a599-ccad84fabe46" />
+
 ---
 
 ## Why a Bookmarklet
