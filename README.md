@@ -4,7 +4,7 @@ A zero-install **bookmarklet** for cleaning LLM-generated text. ~before pretendi
 
 LLMs often produce text that looks correct but contains smart punctuation, invisible Unicode, emoji joiners, and typographic symbols that break copy/paste workflows. This tool normalizes that output into predictable ASCII in a single click.
 
-<img width="481" height="371" alt="image" src="https://github.com/user-attachments/assets/906ad1c4-cb04-40bd-a599-ccad84fabe46" />
+<img width="817" height="644" alt="image" src="https://github.com/user-attachments/assets/89b0a036-c853-4150-a714-43f5c1f5361b" />
 
 ---
 
@@ -34,11 +34,13 @@ No build step is required.
    **LLM Output Sanitizer**
 4. Set the bookmark's **URL** to the full bookmarklet code from here [bookmarklet.js](bookmarklet.js)
 
-<code>
+```
 javascript:(function () { ... })();
-</code>
+```
 
 Save the bookmark.
+
+<img width="497" height="277" alt="image" src="https://github.com/user-attachments/assets/4df47641-bcba-44a9-bf17-e0eb5443ea9d" />
 
 ---
 
